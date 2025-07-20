@@ -1,5 +1,4 @@
 
-````markdown
 # Lukas Dashboard 🕊️
 
 A Streamlit-based web application built for the *Wir für Lukas* association to manage and visualize church, community, and cultural engagement data.  
@@ -124,4 +123,3 @@ Please contact the author before reuse or redistribution.
 
 ```
 
-```
