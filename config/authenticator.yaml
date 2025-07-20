@@ -1,0 +1,28 @@
+credentials:
+  usernames:
+    admin_user:
+      name: Admin User
+      password: '$2b$12$Q2ioyspbqkD2NvQ0vQT64.W06sffeek4rL.5v5u3kvI41n79CKssq'
+      email: admin@example.com
+      role: admin
+
+    kultur_maria:
+      name: Maria K.
+      password: '$2b$12$2U47lwfSbAPC/Q/0h5RpquhbtgcWc2/wOOxCaU6cKoIoDBYDO6ZHC'
+      email: maria@example.com
+      role: kultur
+
+    quartier_hans:
+      name: Hans Q.
+      password: '$2b$12$0VqzL9pObd6MmVH9g64fDuqqfiek4NhcbFwvkTFC6Db4GkztSj5o.'
+      email: hans@example.com
+      role: quartier
+
+cookie:
+  name: lukas_dashboard
+  key: some_random_secret_key
+  expiry_days: 1
+
+preauthorized:
+  emails:
+    - admin@example.com
