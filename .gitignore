@@ -1,8 +1,28 @@
+# Virtuelle Umgebungen
+.venv/
 venv/
+env/
+ENV/
+
+# Bytecode / Cache-Dateien
 __pycache__/
 *.pyc
 *.pyo
 *.pyd
+
+# Umgebungsvariablen & lokale Konfigs
 .env
 *.db
 *.sqlite3
+
+# VS Code Ordner
+.vscode/
+
+# Mac / Windows Systemdateien
+.DS_Store
+Thumbs.db
+
+# Streamlit Config-Dateien
+.streamlit/config.toml
+.streamlit/secrets.toml
+
