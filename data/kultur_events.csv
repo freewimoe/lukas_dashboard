@@ -1,0 +1,101 @@
+event_id,title,category,date,venue,organizer,visitors,ticket_price,duration_min
+E001,Ausstellung #1,Konzert,2025-04-06,Musikhochschule,Kulturverein Südwest,105,13.52,120
+E002,Konzert #2,Vortrag,2024-09-24,Sandkorn Theater,Freie Szene,27,16.98,120
+E003,Performance #3,Lesung,2024-11-22,Musikhochschule,Kulturverein Südwest,297,19.99,45
+E004,Vortrag #4,Lesung,2025-02-07,Musikhochschule,Stadt Karlsruhe,52,9.32,60
+E005,Vortrag #5,Konzert,2024-07-17,Sandkorn Theater,Stadt Karlsruhe,263,21.38,60
+E006,Ausstellung #6,Ausstellung,2025-05-05,Lukaskirche,Freie Szene,58,21.22,90
+E007,Lesung #7,Konzert,2025-01-12,Sandkorn Theater,Freie Szene,114,10.09,75
+E008,Vortrag #8,Vortrag,2024-05-07,Lukaskirche,Freie Szene,260,16.05,75
+E009,Performance #9,Vortrag,2024-02-05,Staatliches Museum,Wir für Lukas,264,3.91,45
+E010,Performance #10,Vortrag,2025-03-02,Staatliches Museum,Kulturverein Südwest,105,10.56,75
+E011,Performance #11,Performance,2024-01-20,Staatliches Museum,Kulturverein Südwest,70,15.36,90
+E012,Vortrag #12,Performance,2025-06-29,Musikhochschule,Stadt Karlsruhe,244,19.27,90
+E013,Vortrag #13,Performance,2024-06-14,Musikhochschule,Freie Szene,175,5.8,75
+E014,Vortrag #14,Vortrag,2025-02-06,Staatliches Museum,Freie Szene,184,7.88,60
+E015,Ausstellung #15,Konzert,2024-09-07,Staatliches Museum,Wir für Lukas,63,23.65,90
+E016,Ausstellung #16,Ausstellung,2025-03-24,Staatliches Museum,Freie Szene,87,10.01,75
+E017,Vortrag #17,Vortrag,2024-10-11,Sandkorn Theater,Freie Szene,260,10.58,90
+E018,Konzert #18,Lesung,2024-06-22,Lukaskirche,Freie Szene,84,20.26,45
+E019,Ausstellung #19,Ausstellung,2024-05-11,Musikhochschule,Wir für Lukas,144,15.22,120
+E020,Performance #20,Konzert,2025-04-10,Lukaskirche,Wir für Lukas,269,19.58,75
+E021,Ausstellung #21,Konzert,2024-03-24,Staatliches Museum,Kulturverein Südwest,252,9.47,120
+E022,Vortrag #22,Ausstellung,2024-11-29,Lukaskirche,Wir für Lukas,104,12.52,90
+E023,Ausstellung #23,Performance,2024-07-08,Musikhochschule,Freie Szene,258,17.21,90
+E024,Ausstellung #24,Ausstellung,2025-04-25,Lukaskirche,Freie Szene,136,6.62,120
+E025,Lesung #25,Lesung,2024-02-07,Staatliches Museum,Kulturverein Südwest,225,21.49,90
+E026,Performance #26,Performance,2025-05-24,Sandkorn Theater,Wir für Lukas,35,3.86,90
+E027,Konzert #27,Vortrag,2024-05-18,Lukaskirche,Freie Szene,124,24.57,75
+E028,Ausstellung #28,Ausstellung,2025-06-07,Lukaskirche,Stadt Karlsruhe,268,22.55,120
+E029,Lesung #29,Vortrag,2025-03-24,Musikhochschule,Wir für Lukas,147,18.1,45
+E030,Lesung #30,Lesung,2024-06-27,Sandkorn Theater,Freie Szene,217,23.65,60
+E031,Performance #31,Ausstellung,2024-01-04,Lukaskirche,Kulturverein Südwest,229,22.21,60
+E032,Ausstellung #32,Vortrag,2024-06-01,Staatliches Museum,Freie Szene,282,20.11,90
+E033,Lesung #33,Konzert,2024-04-13,Lukaskirche,Freie Szene,259,14.84,120
+E034,Performance #34,Performance,2024-10-05,Sandkorn Theater,Freie Szene,127,20.59,120
+E035,Performance #35,Performance,2024-01-11,Lukaskirche,Wir für Lukas,191,17.56,75
+E036,Konzert #36,Performance,2024-04-19,Staatliches Museum,Kulturverein Südwest,220,1.87,120
+E037,Ausstellung #37,Ausstellung,2024-11-29,Lukaskirche,Wir für Lukas,174,0.69,45
+E038,Ausstellung #38,Vortrag,2025-02-25,Sandkorn Theater,Wir für Lukas,175,14.32,120
+E039,Lesung #39,Lesung,2025-05-11,Musikhochschule,Stadt Karlsruhe,70,16.63,120
+E040,Performance #40,Performance,2024-06-05,Staatliches Museum,Stadt Karlsruhe,75,1.5,75
+E041,Konzert #41,Konzert,2025-04-03,Sandkorn Theater,Wir für Lukas,232,2.36,120
+E042,Lesung #42,Ausstellung,2025-03-16,Musikhochschule,Wir für Lukas,227,6.29,90
+E043,Lesung #43,Lesung,2025-04-24,Staatliches Museum,Freie Szene,148,2.12,120
+E044,Ausstellung #44,Vortrag,2024-12-16,Sandkorn Theater,Kulturverein Südwest,282,3.95,60
+E045,Ausstellung #45,Lesung,2024-04-27,Lukaskirche,Stadt Karlsruhe,69,17.92,60
+E046,Ausstellung #46,Ausstellung,2024-01-04,Musikhochschule,Wir für Lukas,46,8.61,45
+E047,Vortrag #47,Lesung,2025-06-15,Lukaskirche,Freie Szene,167,16.81,45
+E048,Performance #48,Ausstellung,2025-03-17,Sandkorn Theater,Stadt Karlsruhe,43,12.49,120
+E049,Konzert #49,Ausstellung,2025-01-19,Staatliches Museum,Freie Szene,160,11.75,45
+E050,Performance #50,Ausstellung,2024-09-02,Staatliches Museum,Kulturverein Südwest,286,4.33,75
+E051,Ausstellung #51,Vortrag,2024-03-12,Musikhochschule,Wir für Lukas,158,0.1,90
+E052,Performance #52,Konzert,2024-03-28,Staatliches Museum,Kulturverein Südwest,60,12.72,75
+E053,Vortrag #53,Vortrag,2024-11-21,Lukaskirche,Wir für Lukas,85,4.72,90
+E054,Vortrag #54,Konzert,2024-08-28,Lukaskirche,Kulturverein Südwest,130,2.41,45
+E055,Ausstellung #55,Vortrag,2025-05-06,Sandkorn Theater,Freie Szene,156,9.6,45
+E056,Performance #56,Lesung,2024-04-13,Musikhochschule,Kulturverein Südwest,248,24.78,75
+E057,Ausstellung #57,Ausstellung,2024-05-05,Staatliches Museum,Kulturverein Südwest,111,11.0,45
+E058,Lesung #58,Konzert,2024-09-21,Staatliches Museum,Wir für Lukas,199,12.57,120
+E059,Ausstellung #59,Performance,2024-06-26,Sandkorn Theater,Stadt Karlsruhe,254,21.29,45
+E060,Ausstellung #60,Performance,2025-02-06,Staatliches Museum,Freie Szene,124,10.15,60
+E061,Performance #61,Ausstellung,2024-07-04,Sandkorn Theater,Wir für Lukas,275,0.66,120
+E062,Performance #62,Konzert,2024-10-29,Musikhochschule,Freie Szene,77,19.73,120
+E063,Performance #63,Performance,2025-05-03,Lukaskirche,Freie Szene,74,20.84,75
+E064,Vortrag #64,Lesung,2024-10-04,Lukaskirche,Freie Szene,66,17.13,90
+E065,Konzert #65,Konzert,2025-06-17,Lukaskirche,Stadt Karlsruhe,84,0.72,60
+E066,Vortrag #66,Vortrag,2025-04-08,Musikhochschule,Wir für Lukas,178,1.79,45
+E067,Ausstellung #67,Lesung,2024-11-24,Sandkorn Theater,Stadt Karlsruhe,261,11.61,90
+E068,Konzert #68,Vortrag,2025-06-12,Sandkorn Theater,Stadt Karlsruhe,227,6.77,90
+E069,Vortrag #69,Performance,2024-08-24,Lukaskirche,Kulturverein Südwest,154,8.11,90
+E070,Lesung #70,Ausstellung,2024-03-12,Staatliches Museum,Wir für Lukas,139,5.46,45
+E071,Vortrag #71,Performance,2024-08-23,Sandkorn Theater,Freie Szene,241,11.19,45
+E072,Performance #72,Ausstellung,2024-01-15,Lukaskirche,Stadt Karlsruhe,273,20.36,75
+E073,Vortrag #73,Lesung,2024-05-01,Staatliches Museum,Freie Szene,299,16.69,45
+E074,Lesung #74,Performance,2025-02-10,Sandkorn Theater,Stadt Karlsruhe,270,12.29,75
+E075,Performance #75,Lesung,2024-10-30,Staatliches Museum,Wir für Lukas,249,6.03,75
+E076,Konzert #76,Performance,2024-01-27,Musikhochschule,Stadt Karlsruhe,85,23.79,75
+E077,Lesung #77,Vortrag,2024-02-17,Musikhochschule,Kulturverein Südwest,38,16.81,120
+E078,Performance #78,Konzert,2025-03-19,Lukaskirche,Wir für Lukas,42,23.62,45
+E079,Konzert #79,Ausstellung,2024-12-29,Musikhochschule,Stadt Karlsruhe,124,18.72,120
+E080,Ausstellung #80,Lesung,2024-03-26,Musikhochschule,Stadt Karlsruhe,79,14.97,45
+E081,Lesung #81,Konzert,2024-04-18,Staatliches Museum,Kulturverein Südwest,69,1.4,75
+E082,Lesung #82,Lesung,2024-07-25,Sandkorn Theater,Kulturverein Südwest,162,8.73,90
+E083,Ausstellung #83,Performance,2024-08-07,Sandkorn Theater,Stadt Karlsruhe,300,21.63,120
+E084,Lesung #84,Ausstellung,2025-01-31,Staatliches Museum,Kulturverein Südwest,62,7.66,45
+E085,Performance #85,Performance,2024-02-12,Sandkorn Theater,Kulturverein Südwest,27,21.41,75
+E086,Konzert #86,Vortrag,2024-02-05,Lukaskirche,Stadt Karlsruhe,230,17.76,60
+E087,Ausstellung #87,Ausstellung,2025-03-05,Musikhochschule,Stadt Karlsruhe,164,13.62,45
+E088,Konzert #88,Vortrag,2024-10-01,Lukaskirche,Freie Szene,149,1.33,90
+E089,Konzert #89,Performance,2024-10-23,Musikhochschule,Wir für Lukas,51,8.78,90
+E090,Konzert #90,Konzert,2024-03-25,Staatliches Museum,Freie Szene,143,3.66,60
+E091,Vortrag #91,Vortrag,2024-04-06,Sandkorn Theater,Freie Szene,87,19.62,90
+E092,Lesung #92,Performance,2025-05-24,Staatliches Museum,Freie Szene,271,20.35,90
+E093,Vortrag #93,Vortrag,2025-07-04,Lukaskirche,Stadt Karlsruhe,183,3.56,60
+E094,Lesung #94,Ausstellung,2024-09-30,Lukaskirche,Kulturverein Südwest,228,8.01,75
+E095,Ausstellung #95,Performance,2024-05-31,Lukaskirche,Kulturverein Südwest,46,24.56,45
+E096,Konzert #96,Lesung,2025-06-12,Musikhochschule,Freie Szene,45,24.42,60
+E097,Ausstellung #97,Vortrag,2025-03-21,Lukaskirche,Freie Szene,103,18.14,90
+E098,Vortrag #98,Konzert,2024-07-13,Staatliches Museum,Kulturverein Südwest,125,14.12,60
+E099,Konzert #99,Lesung,2025-05-04,Staatliches Museum,Stadt Karlsruhe,266,13.82,90
+E100,Lesung #100,Performance,2024-11-14,Sandkorn Theater,Wir für Lukas,16,17.74,120
