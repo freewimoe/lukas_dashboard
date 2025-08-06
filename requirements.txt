@@ -1,4 +1,6 @@
-streamlit
-streamlit-authenticator
-pandas
-PyYAML
+streamlit>=1.29.0
+streamlit-authenticator==0.2.3
+pandas>=1.5.0
+PyYAML>=6.0
+bcrypt>=4.0.0
+plotly>=5.0.0

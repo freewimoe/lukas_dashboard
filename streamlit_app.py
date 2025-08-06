@@ -31,7 +31,7 @@ except Exception as e:
     st.error(f"❌ Error loading configuration: {e}")
     st.stop()
 
-# === Initialize Authenticator (Fixed for new version) ===
+# === Initialize Authenticator (Compatible with older version) ===
 try:
     authenticator = stauth.Authenticate(
         config['credentials'],
@@ -43,8 +43,21 @@ except Exception as e:
     st.error(f"❌ Authentication error: {e}")
     st.stop()
 
-# === Login Interface ===
-name, authentication_status, username = authenticator.login(location="main")
+# === Login Interface (Fixed for stable version) ===
+try:
+    name, authentication_status, username = authenticator.login('Login', 'main')
+except Exception as e:
+    st.error(f"❌ Login method error: {e}")
+    st.info("Trying alternative login method...")
+    try:
+        # Alternative for newer versions
+        result = authenticator.login(location='main')
+        if result and len(result) == 3:
+            name, authentication_status, username = result
+        else:
+            name, authentication_status, username = None, None, None
+    except:
+        name, authentication_status, username = None, None, None
 
 if authentication_status is False:
     st.error("❌ Login failed - Please check username and password")
@@ -61,7 +74,14 @@ elif authentication_status is None:
         
 elif authentication_status:
     # === Successful Login ===
-    authenticator.logout("Logout", "sidebar")
+    try:
+        authenticator.logout('Logout', 'sidebar')
+    except:
+        try:
+            authenticator.logout(location='sidebar')
+        except:
+            st.sidebar.button("Logout (manual)")
+    
     st.sidebar.success(f"Welcome, {name} 👋")
     
     # === Get User Role ===
