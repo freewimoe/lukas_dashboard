@@ -127,7 +127,7 @@ with tab2:
             }
             return colors.get(val, '')
         
-        styled_df = calendar_df.style.applymap(color_area, subset=['Area'])
+        styled_df = calendar_df.style.map(color_area, subset=['Area'])
         st.dataframe(styled_df, use_container_width=True)
     
     with col2:
